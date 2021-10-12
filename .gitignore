@@ -1,0 +1,8 @@
+# image files
+res/*
+
+# target files
+cmake-build-debug/
+
+# CLion files
+.idea/
